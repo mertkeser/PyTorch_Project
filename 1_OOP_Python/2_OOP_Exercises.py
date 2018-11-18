@@ -1,4 +1,5 @@
-#This is an exercise for learning OOP in Python.
+# In this exercise, methods are explained. Description and Speak method inside of the Dog class is created and usage
+# of this methods are shown.
 
 class Dog:
 

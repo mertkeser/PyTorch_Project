@@ -1,4 +1,4 @@
-# This program is to learn Onject Inheritance In Python 3
+# This program is to learn Object Inheritance In Python 3
 
 class  Dog:
     def  __init__(self, breed):
