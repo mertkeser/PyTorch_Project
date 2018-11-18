@@ -12,3 +12,5 @@ Tasks for Completing the Project is given below:
 6. Linear Classifiers and Two Layer Neural Network
 
 #### 1. Object Oriented Programming in Python
+- OOP tutorial in the given link is completed. (https://realpython.com/python3-object-oriented-programming/)
+
