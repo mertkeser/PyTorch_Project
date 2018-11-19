@@ -1,6 +1,6 @@
 # IMAGE CLASSIFICATION USING PYTORCH
 
-I created this repository to help others who wants to learn PYTORCH library. This project is prepared as a final project for Computer Science MakeUp Module for Neuroengineering.
+I created this repository to help beginners in PYTORCH library. This project is prepared as a final project for Computer Science MakeUp Module for Neuroengineering.
 
 Tasks for Completing the Project is given below: 
 
