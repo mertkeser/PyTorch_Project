@@ -2,7 +2,7 @@
 
 I created this repository to help beginners in PYTORCH library. This repository is prepared as a final project for Computer Science MakeUp Module for Neuroengineering.
 
-Tasks for Completing the Project is given below: 
+Learning process is divided into steps: 
 
 1. Object Oriented Programming in Python
 2. Learning PyTorch environment and Deep Learning in PyTorch
