@@ -12,5 +12,5 @@ Learning process is divided into steps:
 6. Image Classification on Fashion Dataset (https://medium.com/ml2vec/intro-to-pytorch-with-image-classification-on-a-fashion-clothes-dataset-e589682df0c5)
 
 #### 1. Object Oriented Programming in Python
-- Topic is clearly introduced and exercises are very helpful for understanding the subject. (https://realpython.com/python3-object-oriented-programming/)
+- Topic is clearly introduced and exercises are very helpful for understanding the OOP in Pyhon. (https://realpython.com/python3-object-oriented-programming/)
 
