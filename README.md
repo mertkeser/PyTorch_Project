@@ -15,3 +15,6 @@ Learning process is divided into steps:
 - Topic is clearly introduced and exercises are very helpful for understanding the OOP in Pyhon. (https://realpython.com/python3-object-oriented-programming/)
 - CodeAcademy has nicely built exercises for classes in Python. Only downside is, these exercises are written for Python 2 and sometimes differences in syntax is confusing but I recommend to complete them. (https://www.codecademy.com/courses/learn-python/lessons/introduction-to-classes/exercises/why-use-classes?action=resume_content_item) 
 
+#### 2. Learning PyTorch environment and Deep Learning in PyTorch
+
+
