@@ -1,6 +1,6 @@
 # IMAGE CLASSIFICATION USING PYTORCH
 
-This project is prepared as a final project for Computer Science MakeUp Module for Neuroengineering. The aim of this project is to turn the knowledge into application.
+I created this repository to help others who wants to learn PYTORCH library. This project is prepared as a final project for Computer Science MakeUp Module for Neuroengineering.
 
 Tasks for Completing the Project is given below: 
 
@@ -12,5 +12,5 @@ Tasks for Completing the Project is given below:
 6. Linear Classifiers and Two Layer Neural Network
 
 #### 1. Object Oriented Programming in Python
-- OOP tutorial in the given link is completed. (https://realpython.com/python3-object-oriented-programming/)
+- Topic is clearly introduced and exercises are very helpful for understanding the subject. (https://realpython.com/python3-object-oriented-programming/)
 
