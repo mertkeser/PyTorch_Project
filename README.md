@@ -17,5 +17,7 @@ Learning process is divided into steps:
 
 #### 2. Learning PyTorch environment and Deep Learning in PyTorch
 - Nice overview on existing Deep Learning Frameworks, I highly recommend to look at this website before starting PyTorch. (https://www.netguru.co/blog/deep-learning-frameworks-comparison)
+- This link explains how to setup necessary environments for PyTorch. (https://pytorch.org/get-started/locally/)
+- 
 
 
