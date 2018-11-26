@@ -18,6 +18,9 @@ Learning process is divided into steps:
 #### 2. Learning PyTorch environment and Deep Learning in PyTorch
 - Nice overview on existing Deep Learning Frameworks, I highly recommend to look at this website before starting PyTorch. (https://www.netguru.co/blog/deep-learning-frameworks-comparison)
 - This link explains how to setup necessary environments for PyTorch. (https://pytorch.org/get-started/locally/)
-- 
+- As a last, I repeated the solved exercises. (https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
+
+### 3. Train a simple sequential NN to predict the digit classes
+
 
 
