@@ -20,7 +20,8 @@ Learning process is divided into steps:
 - This link explains how to setup necessary environments for PyTorch. (https://pytorch.org/get-started/locally/)
 - As a last, I repeated the solved exercises. (https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 
-### 3. Train a simple sequential NN to predict the digit classes
-
+### 3. Train NN to predict the digit classes
+- In the first exercise, two layer neural network is trained on MNIST dataset and the model is applied on test dataset.
+- In the second exercise, convolutional neural network is trained on MNIST dataset and the model is applied on test dataset.
 
 
